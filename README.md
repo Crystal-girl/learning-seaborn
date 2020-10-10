@@ -12,7 +12,3 @@
 * #1; lineplot(flights_wide) => lineplot(data=flights_wide, dashes=dashes)
 * #2: 增加 dashes 参数设置
 * #3: 修改 palette 参数设置
-
-```{.python .input}
-
-```
