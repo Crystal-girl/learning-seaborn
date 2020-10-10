@@ -7,3 +7,12 @@
 
 > scatterplot: 修改一处参考代码错误。
 * #1: 增加 legend 参数设置
+
+> lineplot: 修改三处参考代码错误。
+* #1; lineplot(flights_wide) => lineplot(data=flights_wide, dashes=dashes)
+* #2: 增加 dashes 参数设置
+* #3: 修改 palette 参数设置
+
+```{.python .input}
+
+```
